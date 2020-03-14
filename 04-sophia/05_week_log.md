@@ -9,3 +9,10 @@
    - make changes in my repo doc, and then pull it
    
 ## Reports
+1. figure out how to change the text on the edges systematicaaly 
+   - eg. define a variable, and be able to replace it
+2. Update the fork - DONE!
+3. Populate the tables in the 05_final_opa.Rmd
+   - make a guess of if the number is coming from data, research, or guesswork
+   - make a table under 'click here to see the analysis table'
+   - make changes in my repo doc, and then pull it
